@@ -16,8 +16,8 @@ Built with a clean Neo-Brutalist style, responsive layout, dark mode, optimized 
 
 ## ✦ Live Demo
 
-[View Portfolio](https://tes.vercel.app)  
-Deployed on Vercel with a custom domain.
+[View Portfolio](https://www.fauzalutfia.my.id/)  
+Deployed on Vercel with a custom domain
 
 ---
 
